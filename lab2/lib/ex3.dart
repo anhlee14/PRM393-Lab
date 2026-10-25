@@ -24,6 +24,7 @@ void main() {
       break;
     case 2:
       print('Day: Thursday');
+      break;
     case 3:
       print('Day: Wednesday');
       break;

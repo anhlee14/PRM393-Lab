@@ -14,7 +14,7 @@ class Exercise4Screen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Exercise 4 – App Str...'),
+        title: const Text('Exercise 4'),
         actions: [
           Row(
             children: [
